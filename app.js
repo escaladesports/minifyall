@@ -75,7 +75,6 @@ function iterate(files, cb, prog = 0){
 
 // Go!
 console.log(`Compressing "${input}"`)
-
 compressFiles(input, err => {
 	if(err) console.error(err)
 	else console.log('Done!')

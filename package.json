@@ -1,7 +1,7 @@
 {
   "name": "minifyall",
   "version": "0.0.0",
-  "description": "Recursively compress and replace images.",
+  "description": "Recursively compress and replace images. Optimizes jpg, png, gif, and svg filetypes.",
   "main": "app.js",
   "author": "Kennedy Rose <krose@escaladesports.com> (https://escaladesports.com)",
   "license": "MIT",
