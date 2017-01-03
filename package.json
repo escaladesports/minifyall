@@ -8,6 +8,18 @@
   "bin": {
     "minifyall": "./app.js"
   },
+  "keywords": [
+    "minifyall",
+    "cli",
+    "compress",
+    "gif",
+    "image",
+    "jpeg",
+    "jpg",
+    "minify",
+    "png",
+    "svg"
+  ],
   "engines": {
     "node": ">=6"
   },
