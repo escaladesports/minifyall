@@ -1,0 +1,23 @@
+{
+  "name": "minifyall",
+  "version": "0.0.0",
+  "description": "Recursively compress and replace images.",
+  "main": "app.js",
+  "author": "Kennedy Rose <krose@escaladesports.com> (https://escaladesports.com)",
+  "license": "MIT",
+  "bin": {
+    "minifyall": "./app.js"
+  },
+  "engines": {
+  	"node": ">=6"
+  },
+  "dependencies": {
+    "glob": "^7.1.1",
+    "imagemin": "^5.2.2",
+    "imagemin-gifsicle": "^5.1.0",
+    "imagemin-mozjpeg": "^6.0.0",
+    "imagemin-pngquant": "^5.0.0",
+    "imagemin-svgo": "^5.2.0",
+    "meow": "^3.7.0"
+  }
+}
