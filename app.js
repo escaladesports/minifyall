@@ -21,7 +21,9 @@ const cli = meow(`
 `, {
 	alias: {
 		i: 'input',
-		e: 'extensions'
+		e: 'extensions',
+		v: 'version',
+		h: 'help'
 	}
 })
 
