@@ -2,6 +2,8 @@
 
 Recursively compress and replace images. Optimizes jpg, png, gif, and svg filetypes.
 
+**Note:** This is a destructive action. Original files will be completely replaced by their optimized copies. Use with caution.
+
 ## Install
 
 ```
